@@ -10,3 +10,4 @@ Tell us about your thoughts on Android OS. Pen them down fast!
 - Many users,Open Source,Customizable ~[Vysakh](https://github.com/vysakh1997)
 - Multitasking,Freely availbale ~[Ankit kumar](https://github.com/PrajapatiAnkit)
 - Easy to modify, Larger user, Eco-frindly ~[Aniket Uttam](https://github.com/uttamaniket)
+- Easy to develop and handle ~[Pawan kumar Gautam](https://github.com/PAWAN-KUMAR-GAUTAM000)
