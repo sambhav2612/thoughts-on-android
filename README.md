@@ -9,4 +9,5 @@ Tell us about your thoughts on Android OS. Pen them down fast!
 - Smarter, Powerful, Secure ~ [Chingiz](https://github.com/Chingiz)
 - Many users,Open Source,Customizable ~[Vysakh](https://github.com/vysakh1997)
 - Multitasking,Freely availbale ~[Ankit kumar](https://github.com/PrajapatiAnkit)
-
+- Organizer, Developer , FOSS lover ~[Himanshu
+  Awasthi](https://github.com/HimanshuAwasthi95)
