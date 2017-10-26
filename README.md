@@ -8,3 +8,5 @@ Tell us about your thoughts on Android OS. Pen them down fast!
 - Beautiful, Downloadable Apps, Clean ~ [Olabiyi Oyewumi](https://github.com/brazil0149)
 - Smarter, Powerful, Secure ~ [Chingiz](https://github.com/Chingiz)
 - Many users,Open Source,Customizable ~[Vysakh](https://github.com/vysakh1997)
+- Multitasking,Freely availbale ~[Ankit kumar](https://github.com/PrajapatiAnkit)
+
