@@ -15,3 +15,4 @@ Tell us about your thoughts on Android OS. Pen them down fast!
 - Custom interface, Enhanced usability, Developer support is a boon, Android fragmentation ~ [GautamMandsorwale](https://github.com/GautamMandsorwale)
 - Fast , User Friendly , Customizable ~ [Rahul Pandey](https://github.com/rahulpandey098)
 - Simple, Catchy , Software Superior ~ [Jitendra Kumar Tripathi](https://github.com/callowidealist)
+- Doesn't require only one button to navigate ~ [Vaibhav](https://github.com/vjain02)
