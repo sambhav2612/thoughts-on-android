@@ -13,3 +13,4 @@ Tell us about your thoughts on Android OS. Pen them down fast!
 - Easy to modify, Larger user, Eco-frindly ~ [Aniket Uttam](https://github.com/uttamaniket)
 - Easy to develop and handle ~ [Pawan kumar Gautam](https://github.com/PAWAN-KUMAR-GAUTAM000)
 - Fast , User Friendly , Customizable ~ [Rahul Pandey](https://github.com/rahulpandey098)
+- Simple, Catchy , Software Superior ~ [Jitendra Kumar Tripathi](https://github.com/callowidealist)
