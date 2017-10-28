@@ -12,5 +12,6 @@ Tell us about your thoughts on Android OS. Pen them down fast!
 - Monolithic (modified Linux kernel),free and open source,Android 8.0 Oreo ~ [Himanshu Awasthi](https://github.com/HimanshuAwasthi95)
 - Easy to modify, Larger user, Eco-frindly ~ [Aniket Uttam](https://github.com/uttamaniket)
 - Easy to develop and handle ~ [Pawan kumar Gautam](https://github.com/PAWAN-KUMAR-GAUTAM000)
+- Custom interface, Enhanced usability, Developer support is a boon, Android fragmentation ~ [GautamMandsorwale](https://github.com/GautamMandsorwale)
 - Fast , User Friendly , Customizable ~ [Rahul Pandey](https://github.com/rahulpandey098)
 - Simple, Catchy , Software Superior ~ [Jitendra Kumar Tripathi](https://github.com/callowidealist)
