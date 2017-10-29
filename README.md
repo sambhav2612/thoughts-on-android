@@ -17,3 +17,4 @@ Tell us about your thoughts on Android OS. Pen them down fast!
 - Simple, Catchy , Software Superior ~ [Jitendra Kumar Tripathi](https://github.com/callowidealist)
 - Doesn't require only one button to navigate ~ [Vaibhav](https://github.com/vjain02)
 - Supports apps that do not require to be present on the device ~ [VK Jain](https://github.com/vkjain66)
+- Simple, Fast, Customisable ~ [lakshan gunawardhana](https://github.com/lakshan95)
